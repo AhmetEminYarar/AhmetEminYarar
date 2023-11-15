@@ -4,6 +4,6 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AhmetEminYarar&icon=8&color=10)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=AhmetEminYarar&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
